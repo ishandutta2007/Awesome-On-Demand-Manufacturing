@@ -66,7 +66,7 @@ Below are the leading open-source repositories driving custom manufacturing arch
 
 ### ⚡ Top Open-Source Frameworks & Configurator Toolkits
 
-| 📦 Repository | ⭐ GitHub Stars | 🪪 License | 🛠️ Primary Tech Stack | 📌 Primary Role in On-Demand Manufacturing |
+| 📦 Repository | ⭐ GitHub_Stars | 🪪 License | 🛠️ Primary Tech Stack | 📌 Primary Role in On-Demand Manufacturing |
 |:---|:---|:---|:---|:---|
 | **[medusajs/medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | MIT | Node.js, TypeScript, PostgreSQL | Composable, headless digital commerce backend ideal for custom POD workflows and custom pricing logic. |
 | **[bagisto/bagisto](https://github.com/bagisto/bagisto)** | [![Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | MIT | PHP, Laravel, Vue.js | Modular ecommerce platform with customizable product options, attributes, and vendor management extensions. |
@@ -105,7 +105,7 @@ Contributions are welcome! Follow these simple steps:
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-pod-tool`).
-3. 📝 **Add your entry** adhering to the markdown table format (including exact pricing, specific free tier limits, star badges linking to stargazers, and architectural notes).
+3. 📝 **Add your entry** adhering to the markdown table format (including exact pricing, specific free tier limits, Stars_Badges linking to stargazers, and architectural notes).
 4. 🚀 **Submit a Pull Request** with a concise description of the addition.
 
 ---
